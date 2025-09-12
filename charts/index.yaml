@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  api-sechub:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-12T11:49:39.961503555-03:00"
+    description: A Helm chart for Kubernetes
+    digest: ea005e42d2e1fc4dc7348ef286042c9386df1888c754f905358505941112f88a
+    name: api-sechub
+    type: application
+    urls:
+    - https://maty314.github.io/api-sechub/charts/api-sechub-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-09-12T11:49:39.958763843-03:00"
